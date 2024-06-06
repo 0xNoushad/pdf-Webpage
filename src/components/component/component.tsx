@@ -45,7 +45,7 @@ export function Component() {
               citations and study guides with ease.
             </p>
             <div className="flex flex-col sm:flex-row items-center gap-4 justify-center">
-  <Button size="lg" src"https://pdf-summarize-wheat.vercel.app/" >Get Started</Button>
+  <Button size="lg"  >Get Started</Button>
   <Button size="lg" variant="outline">Learn More</Button>
 </div>
 
@@ -104,7 +104,7 @@ export function Component() {
                 valuable insights. Experience the power of AI-driven document processing at your fingertips.
               </p>
               <div className="flex flex-col sm:flex-row items-center gap-4">
-                <Button size="lg" src"https://pdf-summarize-wheat.vercel.app/" >
+                <Button size="lg"  >
                   Try It Now
                 </Button>
                 <Button size="lg" variant="outline">
